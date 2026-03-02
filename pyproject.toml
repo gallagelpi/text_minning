@@ -1,0 +1,16 @@
+[project]
+name = "final-project-text-mining"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "ipykernel>=7.2.0",
+    "nltk>=3.9.3",
+    "pandas>=3.0.1",
+    "pyautogui>=0.9.54",
+    "scikit-learn>=1.8.0",
+    "selenium>=4.41.0",
+    "webdriver-manager>=4.0.2",
+]
