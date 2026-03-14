@@ -1,0 +1,72 @@
+[BIO_CUES]
+passed away
+died
+departed this life
+entered eternal rest
+entered into rest
+entered into eternal rest
+date of death
+born
+age
+aged
+years old
+
+[FAMILY_CUES]
+survived by
+is survived by
+leaves behind
+left to cherish
+cherished by
+predeceased by
+preceded in death by
+preceeded in death by
+beloved wife
+beloved husband
+beloved father
+beloved mother
+beloved son
+beloved daughter
+beloved sister
+beloved brother
+
+[MEMORIAL_CUES]
+funeral
+funeral service
+memorial service
+celebration of life
+service will be held
+services will be held
+service at
+services at
+ceremony at
+burial
+interment
+entombment
+entombed at
+cemetery
+mausoleum
+buried at
+in lieu of flowers
+will receive friends
+visiting hours
+
+[DEATH_CUES]
+passed away
+passed on
+died
+departed
+departed this life
+left this world
+entered rest
+entered eternal rest
+entered into rest
+entered into eternal rest
+called home
+called safely home
+called to rest
+called to eternal rest
+went to be with the lord
+went home to be with the lord
+rested in peace
+transitioned
+date of death
