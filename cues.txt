@@ -20,14 +20,28 @@ cherished by
 predeceased by
 preceded in death by
 preceeded in death by
-beloved wife
-beloved husband
-beloved father
-beloved mother
-beloved son
-beloved daughter
-beloved sister
-beloved brother
+late husband
+late wife
+late son
+late daughter
+late father
+late mother
+late brother
+late sister
+late parent
+late child
+loving wife of
+loving husband of
+devoted mother of
+devoted father of
+daughter of
+son of
+grandmother of
+grandfather of
+great grandmother of 
+great grandfather of
+sister-in-law of
+brother-in-law of
 
 [MEMORIAL_CUES]
 funeral
@@ -49,6 +63,7 @@ buried at
 in lieu of flowers
 will receive friends
 visiting hours
+invited to attend a mass
 
 [DEATH_CUES]
 passed away
